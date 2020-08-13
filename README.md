@@ -1,6 +1,7 @@
 # Minimal Classifier In Javascript
 
+You can check a sleek animating demo @ Codesandbox
 
-Created with CodeSandbox
+Please check my Medium series for the detailed writeup: https://medium.com/@meherranjan/neural-network-in-javascript-part-1-d86328048017
 
-Sleek animating demo on sandbox : https://codesandbox.io/s/wizardly-chebyshev-5zly3
+If you would like part-2 of the series, drop a comment on the Medium story. :) 
